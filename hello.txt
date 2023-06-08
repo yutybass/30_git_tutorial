@@ -1,1 +1,2 @@
 Hello Git and Conflict too!
+Hello, remote!
