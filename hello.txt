@@ -1,1 +1,1 @@
-Hello Git and Conflict
+Hello Git and Conflict too!
